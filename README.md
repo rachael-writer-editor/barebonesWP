@@ -1,5 +1,5 @@
 # barebonesWP
-Tools and strategies to minimise bloat on block-based WordPress template site that's 2026 AI ready 
+Tools and strategies to minimise bloat on a block-based WordPress template site that's 2026 AI ready. Hopefully useful for other authors or writers with Author Profiles on the internet that they may nolonger control. SEO Framework is the gun but a little tailoring's required. BEST, friends. 
 
 
 # Site Standards & Technical Documentation 
