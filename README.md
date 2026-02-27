@@ -53,8 +53,8 @@ Leveraging WordPress tags for logical navigation that prioritises screen-reader 
 
 Lightweight metadata management. 
 * **Manual Control:**  
-
 Automatic title generation is DISABLED to ensure 100% editorial control. 
+
 * **Archive Control:**  
 TSF handles "noindex" and "disallow" for tags to keep the index clean. 
 
@@ -62,7 +62,8 @@ TSF handles "noindex" and "disallow" for tags to keep the index clean.
 
 * **JSON-LD (WPCode):**  
 
-Surgical insertion of structured data to define "Entity" relationships (Person/Author) for Generative Engine Optimisation (GEO). 
+Surgical insertion of structured data to define "Entity" relationships (Person/Author) in the Header for Generative Engine Optimisation (GEO). 
+Used WPCode to insert text the removed extra socials identities inserted by SEO Framework
 
 * **KeySearch & AlsoAsked:**  
 
