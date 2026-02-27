@@ -6,10 +6,10 @@ The SEO Framework is the gun but a little tailoring's required. BEST, friends.
  
 ## 1. Infrastructure, Security & Hosting 
 * **VentraIP:**  
-[VentraIP](https://ventraip.com.au)High-performance Australian hosting providing PHP 8.2 stability and server-side management. 
+[VentraIP](https://ventraip.com.au) High-performance Australian hosting providing PHP 8.2 stability and server-side management. 
 
 * **Cloudflare:**  
-[CloudFlare](http://cloudflare.com)Primary DNS and SSL management layer. Utilised as a Web Application Firewall (WAF) to block rogue AI behaviour and optimise global performance. 
+[CloudFlare](http://cloudflare.com) Primary DNS and SSL management layer. Utilised as a Web Application Firewall (WAF) to block rogue AI behaviour and optimise global performance. 
 
 * **Cloudflare Turnstile:**  
 Privacy-first, WCAG-compliant bot defence for contact forms, ensuring a frictionless user experience without traditional CAPTCHAs. 
@@ -24,7 +24,7 @@ Manually verified standard WordPress directives. Edited within CPanel, via Ventr
 Hand-drawn sketches converted into digital assets.  
 
 **Affinity**  
-[Affinity](https://www.affinity.studio/)Used to convert logos to curves (pixels to vector) for professional scalability. 
+[Affinity](https://www.affinity.studio/) Used to convert logos to curves (pixels to vector) for professional scalability. 
 
 * **Favicon Generator:**  
 [https://favicon.io/](https://favicon.io/) Used to create the multi-platform site icon assets from the finalised branding.
@@ -45,7 +45,7 @@ Leveraging WordPress tags for logical navigation that prioritises screen-reader 
  
 ## 4. Technical SEO & GEO Strategy 
 * **The SEO Framework (TSF) WordPress plugin:**  
-[The SEO Framework](https://wordpress.org/plugins/autodescription/)]Lightweight metadata management.
+[The SEO Framework](https://wordpress.org/plugins/autodescription/) Lightweight metadata management & canonical priorities.
 * **Manual Control:**  
 Automatic title generation is DISABLED to ensure 100% editorial control. 
 * **Archive Control:**  
@@ -66,7 +66,7 @@ Keyword phrases and keywords are woven naturally into prose and sub-heads; they 
  
 ## 5. Technical Auditing & Support 
 * **SEOtimer:** 
-[SEOtimer](seotimer.com)Primary crawler support for technical audits and on-page SEO health checks. 
+[SEOtimer](seotimer.com) Primary crawler support for technical audits and on-page SEO health checks. 
 
 * **Google Search Console:**
 [Google Search Console](https://search.google.com/search-console/about)
