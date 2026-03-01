@@ -58,6 +58,9 @@ Used WPCode to insert instructions to removed extra socials identities automatic
 * **KeySearch & AlsoAsked:**  
 [KeySearch](https://www.keysearch.co/) In-depth keyword analysis and intent mapping to inform content structure. [AlsoAsked](https://alsoasked.com/) Assist with search intent.
 
+* **Test JSON-LD structure: **
+[Schema Org](https://schema.org/) Site for testing your JSON-LD structure.
+
 * **Asset Package:**
 Articles require SEO Title, Title,  SEO sub-heads, URL slug, Meta description, image file names, Alt text options  
 
@@ -65,8 +68,8 @@ Articles require SEO Title, Title,  SEO sub-heads, URL slug, Meta description, i
 Keyword phrases and keywords are woven naturally into prose and sub-heads; they are NEVER included in meta keyword tags. 
  
 ## 5. Technical Auditing & Support 
-* **SEOtimer:** 
-[SEOtimer](seotimer.com) Primary crawler support for technical audits and on-page SEO health checks. 
+* **SEOoptimer:** 
+[SEOoptimer](seoptimer.com) Primary crawler support for technical audits and on-page SEO health checks. 
 
 * **Google Search Console:**
 [Google Search Console](https://search.google.com/search-console/about)
@@ -75,13 +78,15 @@ Real-time monitoring of indexing health and manual crawl requests.
 * **Manual robots.txt:**  
 Requests well-behaved AI bots avoid specific sections while allowing full script access (JS/CSS) for accurate rendering. Note on manual robots.txt. The SEO Framework typically renders a robots.txt but will respect a physical file.
 
-* **Testing how Crawlers see the site
+* **Testing how Crawlers see the site**
 [CrawlerCheck](https://crawlercheck.com/) Ensuring the correct robots.txt is visible to crawlers and that instructions to bots are clear
 
+* **Mobile & Desktop rendering**
+[MobileMoxie](https://mobilemoxie.com/tools/mobile-page-test/) Up to three checks daily on two devices, with Australia's most popular devices included.
  
 ## 6. Accessibility & Strategic Partnership 
 * **WCAG Compliance:**
-[WAVE Evaluation Tool](https://wave.webaim.org/)Core architecture "proofing" using the **WAVE Evaluation Tool** to ensure compliance. 
+[WAVE Evaluation Tool](https://wave.webaim.org/)Core architecture "proofing" using the **WAVE Evaluation Tool** to ensure compliance.
 
 * **Strategic AI Partnership:** 
 [Gemini](https://gemini.google.com/app)Using Gemini to assist with GEO and SEO assets, navigating technical roadblocks, writing code and maintaining a "low-bloat" development methodology. 
