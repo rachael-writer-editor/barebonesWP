@@ -38,10 +38,10 @@ Visual assets utilise a simplified colour space to ensure consistency and perfor
 Optimisation step for photography assets to ensure fast mobile load times and browser compatibility.
 
 * **Forms:**
-* [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) Forms that support WCAG accessibility. Helpful for creating a bridge to the Substack link
+[Contact Form 7](https://wordpress.org/plugins/contact-form-7/) Forms that support WCAG accessibility. Helpful for creating a bridge to the Substack link
 
 * **Email database:**
-* [substack.com](https://substack.com/@rachaelwritesforreal) Easy and free solution for creating a secure and legal email database on an external server.
+[substack.com](https://substack.com/@rachaelwritesforreal) Easy and free solution for creating a secure and legal email database on an external server.
  
 ## 3. Media & Content Management 
 * **FileBird plugin WordPress plugin:**  
