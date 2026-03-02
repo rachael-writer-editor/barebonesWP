@@ -1,5 +1,5 @@
 # barebonesWP
-Tools and strategies to minimise bloat on a block-based WordPress template site that's 2026 AI ready. Hopefully useful for other authors or writers with Author Profiles on the internet that they may nolonger control. 
+Tools and strategies to minimise bloat on a block-based WordPress template site that's 2026 AI ready. I used WordPress' Twenty-Twenty-Four template that offers blog functionality. Hopefully useful for other authors or writers with Author Profiles on the internet that they may nolonger control. 
 The SEO Framework is the gun but a little tailoring's required. BEST, friends. 
 
 # Site Standards & Technical Documentation 
@@ -34,7 +34,13 @@ Reduce image size, main: long-side 2100; post assets: long-side 1500
 Visual assets utilise a simplified colour space to ensure consistency and performance across web displays.
 
 * **WebP Conversion:**  
-Optimisation step for photography assets to ensure fast mobile load times and browser compatibility. 
+Optimisation step for photography assets to ensure fast mobile load times and browser compatibility.
+
+* **Forms:**
+[Contact Form 7](https://wordpress.org/plugins/contact-form-7/) Forms that support WCAG accessibility. Helpful for creating a bridge to the Substack link
+
+* **Email database:**
+* [substack.com](https://substack.com/@rachaelwritesforreal) Easy and free solution for creating a secure and legal email database on an external server.
  
 ## 3. Media & Content Management 
 * **FileBird plugin WordPress plugin:**  
@@ -59,7 +65,7 @@ Used WPCode to insert instructions to removed extra socials identities automatic
 [KeySearch](https://www.keysearch.co/) In-depth keyword analysis and intent mapping to inform content structure. [AlsoAsked](https://alsoasked.com/) Assist with search intent.
 
 * **Test JSON-LD structure: **
-[Schema Org](https://schema.org/) Site for testing your JSON-LD structure.
+[Schema Org](https://validator.schema.org/)) Site for testing your JSON-LD structure.
 
 * **Asset Package:**
 Articles require SEO Title, Title,  SEO sub-heads, URL slug, Meta description, image file names, Alt text options  
