@@ -6,7 +6,7 @@ The SEO Framework is the gun but a little tailoring's required. BEST, friends.
  
 ## 1. Infrastructure, Security & Hosting 
 * **VentraIP:**  
-[VentraIP](https://ventraip.com.au) High-performance Australian hosting providing PHP 8.2 stability and server-side management. 
+[VentraIP](https://ventraip.com.au) High-performance Australian hosting providing PHP 8.3 (since updated) stability and server-side management. 
 
 * **Cloudflare:**  
 [CloudFlare](http://cloudflare.com) Primary DNS and SSL management layer. Utilised as a Web Application Firewall (WAF) to block rogue AI behaviour and optimise global performance. 
