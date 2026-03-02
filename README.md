@@ -9,7 +9,7 @@ The SEO Framework is the gun but a little tailoring's required. BEST, friends.
 [VentraIP](https://ventraip.com.au) High-performance Australian hosting providing PHP 8.3 (since updated, to suit Contact Form 7 plugin) stability and server-side management. 
 
 * **Cloudflare:**  
-[CloudFlare](http://cloudflare.com) Primary DNS and SSL management layer. Utilised as a Web Application Firewall (WAF) to block rogue AI behaviour and optimise global performance. -- turned of this crazy honeypot app after it trapped my own site :O  
+[CloudFlare](http://cloudflare.com) Primary DNS and SSL management layer. Utilised as a Web Application Firewall (WAF) to block rogue AI behaviour and optimise global performance. -- turned off this crazy honeypot app after it trapped my own site :O  
 
 * **Cloudflare Turnstile:**  
 Privacy-first, WCAG-compliant bot defence for contact forms, ensuring a frictionless user experience without traditional CAPTCHAs. 
