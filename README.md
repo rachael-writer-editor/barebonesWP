@@ -18,6 +18,7 @@ Privacy-first, WCAG-compliant bot defence for contact forms, ensuring a friction
 Manually verified standard WordPress directives. Edited within CPanel, via VentraIP.   
 * Handles Pretty Permalinks and passes Authorisation headers for REST API stability. 
 * Custom rules must be placed above the `# BEGIN WordPress` marker to prevent overwriting. 
+* [Security Headers](https://securityheaders.com/) Testing platform for modern security
  
 ## 2. Creative & Visual Identity 
 * **Favicon/icon Workflow:**  
