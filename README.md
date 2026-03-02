@@ -97,5 +97,3 @@ Requests well-behaved AI bots avoid specific sections while allowing full script
 
 * **Strategic AI Partnership:** 
 [Gemini](https://gemini.google.com/app)Using Gemini to assist with GEO and SEO assets, navigating technical roadblocks, writing code and maintaining a "low-bloat" development methodology. 
-
- 
