@@ -76,7 +76,7 @@ Keyword phrases and keywords are woven naturally into prose and sub-heads; they 
  
 ## 5. Technical Auditing & Support 
 * **SEOoptimer:** 
-[SEOoptimer](seoptimer.com) Primary crawler support for technical audits and on-page SEO health checks. 
+[SEOoptimer](http://seoptimer.com) Primary crawler support for technical audits and on-page SEO health checks. 
 
 * **Google Search Console:**
 [Google Search Console](https://search.google.com/search-console/about)
