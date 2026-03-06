@@ -83,7 +83,8 @@ Keyword phrases and keywords are woven naturally into prose and sub-heads; they 
 Real-time monitoring of indexing health and manual crawl requests. 
 
 * **Manual robots.txt:**  
-Requests well-behaved AI bots avoid specific sections while allowing full script access (JS/CSS) for accurate rendering. Note on manual robots.txt. The SEO Framework typically renders a robots.txt but will respect a physical file.
+CHANGED: Requests well-behaved AI bots avoid specific sections while allowing full script access (JS/CSS) for accurate rendering. Note on manual robots.txt. The SEO Framework typically renders a robots.txt but will respect a physical file.
+Amended this text, retaining handshakes and directing instructions on targeted posts to encourage indexing
 
 * **Testing how Crawlers see the site**
 [CrawlerCheck](https://crawlercheck.com/) Ensuring the correct robots.txt is visible to crawlers and that instructions to bots are clear
