@@ -32,10 +32,12 @@ Hand-drawn sketches converted into digital assets.
 
 * **Image Optimisation:**  
 Reduce image size, main: long-side 2100; post assets: long-side 1500
+Post assets now 1500 at short side to increase portability across socials
 Visual assets utilise a simplified colour space to ensure consistency and performance across web displays.
 
 * **WebP Conversion:**  
 Optimisation step for photography assets to ensure fast mobile load times and browser compatibility.
+WebP currently saving at mid, considering shifting to high for wide angle/ high detail shots
 
 * **Forms:**
 [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) Forms that support WCAG accessibility. Helpful for creating a bridge to the Substack link
@@ -56,7 +58,10 @@ Leveraging WordPress tags for logical navigation that prioritises screen-reader 
 * **Manual Control:**  
 Automatic title generation is DISABLED to ensure 100% editorial control. 
 * **Archive Control:**  
-TSF handles "noindex" and "disallow" for tags to keep the index clean. 
+TSF handles "noindex" and "disallow" for tags to keep the index clean.
+March 16, 2026, remove "noindex" from categories used in menu items to correct indexing. Introduced unique content and unique summaries to prevent thin
+March 16, 2026, introduced unique content and unique summaries 
+March 19, indexing of a new post encouraging
 
 * **JSON-LD (WPCode WordPress plugin):**  
 [WPCode](https://wordpress.org/plugins/insert-headers-and-footers/) Insert structured daa to define "Entity" relationships (Person/Author) in the Header for Generative Engine Optimisation (GEO).
