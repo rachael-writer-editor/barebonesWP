@@ -63,6 +63,9 @@ March 16, 2026, remove "noindex" from categories used in menu items to correct i
 March 16, 2026, introduced unique content and unique summaries 
 March 19, indexing of a new post encouraging
 
+* ** /category/ pages override
+Cannot be sure but with the update of WP 9.6.4 - I think TSF began identifying WP's own /category/ urls as the canonical priority, causing hub pages to deindex on google. 
+
 * **JSON-LD (WPCode WordPress plugin):**  
 [WPCode](https://wordpress.org/plugins/insert-headers-and-footers/) Insert structured daa to define "Entity" relationships (Person/Author) in the Header for Generative Engine Optimisation (GEO).
 Used WPCode to insert instructions to removed extra socials identities automatically inserted by SEO Framework.
